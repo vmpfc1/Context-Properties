@@ -1,0 +1,20 @@
+3.3994 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.4099 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4141 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+4.4300 	EXP 	Created responsee = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=43, italic=False, name='responsee', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'make a response', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.4587 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4593 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+4.4596 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+4.4604 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+4.4993 	EXP 	TextStim: autoLog = None
+4.4993 	EXP 	ImageStim: autoLog = None
+4.4993 	EXP 	TextStim: autoLog = None
+4.4993 	EXP 	TextStim: autoLog = None
+4.4993 	EXP 	Set Instructions text=Instructions 1!
+4.4993 	EXP 	TextStim: autoDraw = None
+4.6360 	DATA 	Keypress: space
+4.6376 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+4.6757 	EXP 	TextStim: autoDraw = None
+4.6757 	EXP 	Set Instructions text=Instructions 2!
+4.6757 	EXP 	TextStim: autoDraw = None
+4.7770 	DATA 	Keypress: space

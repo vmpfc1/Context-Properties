@@ -1,0 +1,64 @@
+3.4819 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.4364 	EXP 	Created Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4418 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4589 	EXP 	Created Text_Trial = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text_Trial', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4644 	EXP 	Created Reply_Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Reply_Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.4693 	EXP 	Imported Instructions.xlsx as conditions, 3 conditions, 1 params
+4.4697 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+4.4702 	EXP 	New trial (rep=0, index=0): {u'text': u'You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.'}
+4.5334 	EXP 	TextStim: autoLog = None
+4.5334 	EXP 	TextStim: autoLog = None
+4.5334 	EXP 	TextStim: autoLog = None
+4.5334 	EXP 	TextStim: autoLog = None
+4.5334 	EXP 	Set Text text=You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.
+4.5334 	EXP 	TextStim: pos = None
+4.5334 	EXP 	Set Text pos=[ 0.  0.]
+4.5334 	EXP 	TextStim: autoDraw = None
+5.0946 	DATA 	Keypress: return
+5.0956 	EXP 	New trial (rep=0, index=1): {u'text': u'Each argument will be presented word-by-word. Please read each word aloud as it appears on the screen. After all the words are presented, you will have five seconds to rate each argument. When you are ready for the next argument to appear, you will press the Enter key. Arguments will be rated on a 1-9 scale, and you will respond by pressing the corresponding key on the keyboard.'}
+5.1952 	EXP 	TextStim: autoDraw = None
+5.1952 	EXP 	Set Text text=Each argument will be presented word-by-word. Please read each word aloud as it appears on the screen. After all the words are presented, you will have five seconds to rate each argument. When you are ready for the next argument to appear, you will press the Enter key. Arguments will be rated on a 1-9 scale, and you will respond by pressing the corresponding key on the keyboard.
+5.1952 	EXP 	TextStim: pos = None
+5.1952 	EXP 	Set Text pos=[ 0.  0.]
+5.1952 	EXP 	TextStim: autoDraw = None
+5.2758 	DATA 	Keypress: return
+5.2768 	EXP 	New trial (rep=0, index=2): {u'text': u'Before the experiment begins you will have a practice round in order to familiarize yourself with the experiment. After that you will begin the experiment itself. It should take about 10 minutes to complete.'}
+5.3562 	EXP 	TextStim: autoDraw = None
+5.3562 	EXP 	Set Text text=Before the experiment begins you will have a practice round in order to familiarize yourself with the experiment. After that you will begin the experiment itself. It should take about 10 minutes to complete.
+5.3562 	EXP 	TextStim: pos = None
+5.3562 	EXP 	Set Text pos=[ 0.  0.]
+5.3562 	EXP 	TextStim: autoDraw = None
+5.4773 	DATA 	Keypress: return
+5.4819 	EXP 	Imported sentences.xlsx as conditions, 2 conditions, 1 params
+5.4824 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+5.4832 	EXP 	New trial (rep=0, index=0): {u'which_text': u'sentence1.xlsx'}
+5.4970 	EXP 	TextStim: autoDraw = None
+5.4970 	EXP 	Set text_2 text=1
+5.4970 	EXP 	TextStim: autoDraw = None
+6.5021 	EXP 	Imported sentence1.xlsx as conditions, 5 conditions, 1 params
+6.5030 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+6.5044 	EXP 	New trial (rep=0, index=0): {u'text': u'This'}
+6.5242 	EXP 	TextStim: autoDraw = None
+6.5242 	EXP 	Set Text_Trial text=This
+6.5242 	EXP 	TextStim: pos = None
+6.5242 	EXP 	Set Text_Trial pos=[ 0.  0.]
+6.5242 	EXP 	TextStim: autoDraw = None
+7.1688 	DATA 	Keypress: escape
+3.1128 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.0401 	EXP 	Created Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.0456 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.0513 	EXP 	Created Text_Trial = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text_Trial', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.0567 	EXP 	Created Reply_Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Reply_Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.0614 	EXP 	Imported Instructions.xlsx as conditions, 3 conditions, 1 params
+4.0618 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+4.0624 	EXP 	New trial (rep=0, index=0): {u'text': u'You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.'}
+4.1277 	EXP 	TextStim: autoLog = None
+4.1277 	EXP 	TextStim: autoLog = None
+4.1277 	EXP 	TextStim: autoLog = None
+4.1277 	EXP 	TextStim: autoLog = None
+4.1277 	EXP 	Set Text text=You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.
+4.1277 	EXP 	TextStim: pos = None
+4.1277 	EXP 	Set Text pos=[ 0.  0.]
+4.1277 	EXP 	TextStim: autoDraw = None
+4.7095 	DATA 	Keypress: escape
+4.7672 	WARNING 	Data file, data/000_ArgumentsEx_2014_Aug_30_0302.csv, will be overwritten

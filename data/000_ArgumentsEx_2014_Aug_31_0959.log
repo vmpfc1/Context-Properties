@@ -1,0 +1,152 @@
+3.8489 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.8034 	EXP 	Created Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.8091 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.8147 	EXP 	Created Text_Trial = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Text_Trial', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.8201 	EXP 	Created Reply_Text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Reply_Text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.8250 	EXP 	Imported Instructions.xlsx as conditions, 3 conditions, 1 params
+4.8254 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+4.8260 	EXP 	New trial (rep=0, index=0): {u'text': u'You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.'}
+4.8860 	EXP 	TextStim: autoLog = None
+4.8860 	EXP 	TextStim: autoLog = None
+4.8860 	EXP 	TextStim: autoLog = None
+4.8860 	EXP 	TextStim: autoLog = None
+4.8860 	EXP 	Set Text text=You will read a number of arguments aloud. Your task is simply to rate how convincing you find each argument. Try to remain objective: avoid using your personal preferences, experience, or opinions when rating the arguments.
+4.8860 	EXP 	TextStim: pos = None
+4.8860 	EXP 	Set Text pos=[ 0.  0.]
+4.8860 	EXP 	TextStim: autoDraw = None
+5.3444 	DATA 	Keypress: return
+5.3451 	EXP 	New trial (rep=0, index=1): {u'text': u'Each argument will be presented word-by-word. Please read each word aloud as it appears on the screen. After all the words are presented, you will have five seconds to rate each argument. When you are ready for the next argument to appear, you will press the Enter key. Arguments will be rated on a 1-9 scale, and you will respond by pressing the corresponding key on the keyboard.'}
+5.4447 	EXP 	TextStim: autoDraw = None
+5.4447 	EXP 	Set Text text=Each argument will be presented word-by-word. Please read each word aloud as it appears on the screen. After all the words are presented, you will have five seconds to rate each argument. When you are ready for the next argument to appear, you will press the Enter key. Arguments will be rated on a 1-9 scale, and you will respond by pressing the corresponding key on the keyboard.
+5.4447 	EXP 	TextStim: pos = None
+5.4447 	EXP 	Set Text pos=[ 0.  0.]
+5.4447 	EXP 	TextStim: autoDraw = None
+5.5058 	DATA 	Keypress: return
+5.5072 	EXP 	New trial (rep=0, index=2): {u'text': u'Before the experiment begins you will have a practice round in order to familiarize yourself with the experiment. After that you will begin the experiment itself. It should take about 10 minutes to complete.'}
+5.5857 	EXP 	TextStim: autoDraw = None
+5.5857 	EXP 	Set Text text=Before the experiment begins you will have a practice round in order to familiarize yourself with the experiment. After that you will begin the experiment itself. It should take about 10 minutes to complete.
+5.5857 	EXP 	TextStim: pos = None
+5.5857 	EXP 	Set Text pos=[ 0.  0.]
+5.5857 	EXP 	TextStim: autoDraw = None
+5.7471 	DATA 	Keypress: return
+5.7515 	EXP 	Imported sentences.xlsx as conditions, 2 conditions, 1 params
+5.7519 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+5.7527 	EXP 	New trial (rep=0, index=0): {u'which_text': u'sentence1.xlsx'}
+5.7670 	EXP 	TextStim: autoDraw = None
+5.7670 	EXP 	Set text_2 text=1
+5.7670 	EXP 	TextStim: autoDraw = None
+6.7790 	EXP 	Imported sentence1.xlsx as conditions, 5 conditions, 1 params
+6.7799 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+6.7813 	EXP 	New trial (rep=0, index=0): {u'text': u'This'}
+6.8342 	EXP 	TextStim: autoDraw = None
+6.8342 	EXP 	Set Text_Trial text=This
+6.8342 	EXP 	TextStim: pos = None
+6.8342 	EXP 	Set Text_Trial pos=[ 0.  0.]
+6.8342 	EXP 	Set Text_Trial font=Comic Sans
+6.8342 	EXP 	TextStim: autoDraw = None
+6.8342 	EXP 	Set Text_Trial text=This
+8.2650 	EXP 	New trial (rep=0, index=1): {u'text': u'is'}
+8.2839 	EXP 	TextStim: autoDraw = None
+8.2839 	EXP 	Set Text_Trial text=is
+8.2839 	EXP 	TextStim: pos = None
+8.2839 	EXP 	Set Text_Trial pos=[ 0.  0.]
+8.2839 	EXP 	Set Text_Trial font=Comic Sans
+8.2839 	EXP 	TextStim: autoDraw = None
+8.2839 	EXP 	Set Text_Trial text=is
+9.7547 	EXP 	New trial (rep=0, index=2): {u'text': u'the'}
+9.7741 	EXP 	TextStim: autoDraw = None
+9.7741 	EXP 	Set Text_Trial text=the
+9.7741 	EXP 	TextStim: pos = None
+9.7741 	EXP 	Set Text_Trial pos=[ 0.  0.]
+9.7741 	EXP 	Set Text_Trial font=Comic Sans
+9.7741 	EXP 	TextStim: autoDraw = None
+9.7741 	EXP 	Set Text_Trial text=the
+11.2448 	EXP 	New trial (rep=0, index=3): {u'text': u'first'}
+11.2642 	EXP 	TextStim: autoDraw = None
+11.2642 	EXP 	TextStim: autoDraw = None
+11.2642 	EXP 	Set Text_Trial text=first
+11.2642 	EXP 	TextStim: pos = None
+11.2642 	EXP 	Set Text_Trial pos=[ 0.  0.]
+11.2642 	EXP 	Set Text_Trial font=Comic Sans
+11.2642 	EXP 	TextStim: autoDraw = None
+11.2642 	EXP 	Set Text_Trial text=first
+12.7350 	EXP 	New trial (rep=0, index=4): {u'text': u'sentence!'}
+12.7743 	EXP 	TextStim: autoDraw = None
+12.7743 	EXP 	TextStim: autoDraw = None
+12.7743 	EXP 	Set Text_Trial text=sentence!
+12.7743 	EXP 	TextStim: pos = None
+12.7743 	EXP 	Set Text_Trial pos=[ 0.  0.]
+12.7743 	EXP 	Set Text_Trial font=Comic Sans
+12.7743 	EXP 	TextStim: autoDraw = None
+12.7743 	EXP 	Set Text_Trial text=sentence!
+14.2643 	EXP 	TextStim: autoDraw = None
+14.2643 	EXP 	TextStim: autoDraw = None
+14.2643 	EXP 	Set Reply_Text text=Please rate this argument on a scale from 1 to 7
+14.2643 	EXP 	TextStim: pos = None
+14.2643 	EXP 	Set Reply_Text pos=[ 0.  0.]
+14.2643 	EXP 	TextStim: autoDraw = None
+16.3588 	DATA 	Keypress: 4
+16.3610 	EXP 	New trial (rep=0, index=1): {u'which_text': u'sentence2.xlsx'}
+16.3787 	EXP 	TextStim: autoDraw = None
+16.3787 	EXP 	Set text_2 text=2
+16.3787 	EXP 	TextStim: autoDraw = None
+17.3821 	EXP 	Imported sentence2.xlsx as conditions, 6 conditions, 1 params
+17.3835 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+17.3855 	EXP 	New trial (rep=0, index=0): {u'text': u'This'}
+17.4055 	EXP 	TextStim: autoDraw = None
+17.4055 	EXP 	Set Text_Trial text=This
+17.4055 	EXP 	TextStim: pos = None
+17.4055 	EXP 	Set Text_Trial pos=[ 0.  0.]
+17.4055 	EXP 	Set Text_Trial font=Comic Sans
+17.4055 	EXP 	TextStim: autoDraw = None
+17.4055 	EXP 	Set Text_Trial text=This
+18.8762 	EXP 	New trial (rep=0, index=1): {u'text': u'is'}
+18.8955 	EXP 	TextStim: autoDraw = None
+18.8955 	EXP 	Set Text_Trial text=is
+18.8955 	EXP 	TextStim: pos = None
+18.8955 	EXP 	Set Text_Trial pos=[ 0.  0.]
+18.8955 	EXP 	Set Text_Trial font=Comic Sans
+18.8955 	EXP 	TextStim: autoDraw = None
+18.8955 	EXP 	Set Text_Trial text=is
+20.3666 	EXP 	New trial (rep=0, index=2): {u'text': u'the'}
+20.3856 	EXP 	TextStim: autoDraw = None
+20.3856 	EXP 	Set Text_Trial text=the
+20.3856 	EXP 	TextStim: pos = None
+20.3856 	EXP 	Set Text_Trial pos=[ 0.  0.]
+20.3856 	EXP 	Set Text_Trial font=Comic Sans
+20.3856 	EXP 	TextStim: autoDraw = None
+20.3856 	EXP 	Set Text_Trial text=the
+21.8569 	EXP 	New trial (rep=0, index=3): {u'text': u'second'}
+21.8959 	EXP 	TextStim: autoDraw = None
+21.8959 	EXP 	TextStim: autoDraw = None
+21.8959 	EXP 	Set Text_Trial text=second
+21.8959 	EXP 	TextStim: pos = None
+21.8959 	EXP 	Set Text_Trial pos=[ 0.  0.]
+21.8959 	EXP 	Set Text_Trial font=Comic Sans
+21.8959 	EXP 	TextStim: autoDraw = None
+21.8959 	EXP 	Set Text_Trial text=second
+23.3466 	EXP 	New trial (rep=0, index=4): {u'text': u'sentence!'}
+23.3860 	EXP 	TextStim: autoDraw = None
+23.3860 	EXP 	TextStim: autoDraw = None
+23.3860 	EXP 	Set Text_Trial text=sentence!
+23.3860 	EXP 	TextStim: pos = None
+23.3860 	EXP 	Set Text_Trial pos=[ 0.  0.]
+23.3860 	EXP 	Set Text_Trial font=Comic Sans
+23.3860 	EXP 	TextStim: autoDraw = None
+23.3860 	EXP 	Set Text_Trial text=sentence!
+24.8379 	EXP 	New trial (rep=0, index=5): {u'text': u'yay'}
+24.8758 	EXP 	TextStim: autoDraw = None
+24.8758 	EXP 	TextStim: autoDraw = None
+24.8758 	EXP 	Set Text_Trial text=yay
+24.8758 	EXP 	TextStim: pos = None
+24.8758 	EXP 	Set Text_Trial pos=[ 0.  0.]
+24.8758 	EXP 	Set Text_Trial font=Comic Sans
+24.8758 	EXP 	TextStim: autoDraw = None
+24.8758 	EXP 	Set Text_Trial text=yay
+26.3660 	EXP 	TextStim: autoDraw = None
+26.3660 	EXP 	TextStim: autoDraw = None
+26.3660 	EXP 	Set Reply_Text text=Please rate this argument on a scale from 1 to 7
+26.3660 	EXP 	TextStim: pos = None
+26.3660 	EXP 	Set Reply_Text pos=[ 0.  0.]
+26.3660 	EXP 	TextStim: autoDraw = None
+27.4134 	DATA 	Keypress: 4

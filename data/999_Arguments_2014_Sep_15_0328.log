@@ -1,0 +1,36 @@
+4.7087 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+5.8214 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  5.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.8339 	EXP 	Created Space_Continue = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Space_Continue', opacity=1.0, ori=0, pos=array([ 0., -7.]), rgb=array([ 255.,  255.,  255.]), text=u'Press SPACE to continue', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.8351 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=0, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+5.8454 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+5.8511 	EXP 	Created question_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='question_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.8741 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=86, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+5.9024 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+5.9082 	EXP 	Imported instructions.xlsx as conditions, 6 conditions, 1 params
+5.9104 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+5.9111 	EXP 	New trial (rep=0, index=0): {u'text': u'We are piloting a new method for group-grading exam questions. In this first section you will be reading aloud several arguments taken from LAW 204, Written and Oral Advocacy, taught at the UC Berkeley Law School.'}
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	ImageStim: autoLog = None
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	TextStim: autoLog = None
+5.9819 	EXP 	Set Instructions text=We are piloting a new method for group-grading exam questions. In this first section you will be reading aloud several arguments taken from LAW 204, Written and Oral Advocacy, taught at the UC Berkeley Law School.
+5.9819 	EXP 	TextStim: autoDraw = None
+5.9819 	EXP 	TextStim: autoDraw = None
+14.6566 	DATA 	Keypress: space
+14.6581 	EXP 	New trial (rep=0, index=1): {u'text': u'You will read through student responses taken from the essay portion of the midterm exam. In order to give an objective analysis, you will be asked to read the essay responses aloud. In addition, sentences from each essay response will be presented phrase-by-phrase, not all at once.'}
+14.7569 	EXP 	TextStim: autoDraw = None
+14.7569 	EXP 	TextStim: autoDraw = None
+14.7569 	EXP 	Set Instructions text=You will read through student responses taken from the essay portion of the midterm exam. In order to give an objective analysis, you will be asked to read the essay responses aloud. In addition, sentences from each essay response will be presented phrase-by-phrase, not all at once.
+14.7569 	EXP 	TextStim: autoDraw = None
+14.7569 	EXP 	TextStim: autoDraw = None
+24.1607 	DATA 	Keypress: space
+24.1618 	EXP 	New trial (rep=0, index=2): {u'text': u'Handwriting has been cropped and digitized into snippets like the one below, each of which contain individual phrases:'}
+24.2208 	EXP 	TextStim: autoDraw = None
+24.2208 	EXP 	TextStim: autoDraw = None
+24.2208 	EXP 	Set Instructions text=Handwriting has been cropped and digitized into snippets like the one below, each of which contain individual phrases:
+24.2208 	EXP 	TextStim: autoDraw = None
+24.2208 	EXP 	TextStim: autoDraw = None
+32.2963 	DATA 	Keypress: escape

@@ -1,0 +1,27 @@
+3.3180 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.3019 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.3139 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+4.3280 	EXP 	Created responsee = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=43, italic=False, name='responsee', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'make a response', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.3533 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.3538 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+4.3541 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+4.3548 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+4.3711 	EXP 	TextStim: autoLog = None
+4.3711 	EXP 	ImageStim: autoLog = None
+4.3711 	EXP 	TextStim: autoLog = None
+4.3711 	EXP 	TextStim: autoLog = None
+4.3711 	EXP 	Set Instructions text=Instructions 1!
+4.3711 	EXP 	TextStim: autoDraw = None
+4.6499 	DATA 	Keypress: space
+4.6513 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+4.6899 	EXP 	TextStim: autoDraw = None
+4.6899 	EXP 	Set Instructions text=Instructions 2!
+4.6899 	EXP 	TextStim: autoDraw = None
+4.7712 	DATA 	Keypress: space
+4.7729 	EXP 	Imported arguments.csv as conditions, 1 conditions, 1 params
+4.7741 	EXP 	Created sequence: sequential, trialTypes=1, nReps=2, seed=None
+4.7760 	EXP 	New trial (rep=0, index=0): {'clear_01csv': u'"messy_01.csv"'}
+4.7778 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+4.7790 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+4.7809 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\clear_this.jpg"'}
+4.7812 	ERROR 	Couldn't find image file '"words\clear_this.jpg"'; check path?

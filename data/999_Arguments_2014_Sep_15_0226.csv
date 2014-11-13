@@ -1,0 +1,4 @@
+text,argument,words,instr_data.thisRepN,instr_data.thisTrialN,instr_data.thisN,instr_data.thisIndex,arguments_data.thisRepN,arguments_data.thisTrialN,arguments_data.thisN,arguments_data.thisIndex,word_data.thisRepN,word_data.thisTrialN,word_data.thisN,word_data.thisIndex,date,frameRate,expName,session,participant,
+"a",,,0,0,0,0,,,,,,,,,2014_Sep_15_0226,49.793627539,Arguments,001,999,
+"b",,,0,1,1,1,,,,,,,,,2014_Sep_15_0226,49.793627539,Arguments,001,999,
+,"messy_01.csv","words\messy_this.jpg",,,,,0,0,0,1,0,0,0,0,2014_Sep_15_0226,49.793627539,Arguments,001,999,

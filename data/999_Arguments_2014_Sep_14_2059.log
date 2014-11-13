@@ -1,0 +1,30 @@
+4.5146 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+5.4592 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=4, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.4596 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+5.4599 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+5.4604 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+5.4895 	EXP 	TextStim: autoLog = None
+5.4895 	EXP 	Set Instructions text=Instructions 1!
+5.4895 	EXP 	TextStim: autoDraw = None
+14.6289 	DATA 	Keypress: space
+14.6303 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+14.6689 	EXP 	TextStim: autoDraw = None
+14.6689 	EXP 	Set Instructions text=Instructions 2!
+14.6689 	EXP 	TextStim: autoDraw = None
+15.4358 	DATA 	Keypress: space
+15.4744 	EXP 	TextStim: autoDraw = None
+4.2066 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+5.1810 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.1815 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+5.1818 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+5.1823 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+5.2180 	EXP 	TextStim: autoLog = None
+5.2180 	EXP 	Set Instructions text=Instructions 1!
+5.2180 	EXP 	TextStim: autoDraw = None
+5.8197 	DATA 	Keypress: space
+5.8211 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+5.8596 	EXP 	TextStim: autoDraw = None
+5.8596 	EXP 	Set Instructions text=Instructions 2!
+5.8596 	EXP 	TextStim: autoDraw = None
+6.3028 	DATA 	Keypress: space
+6.3228 	EXP 	TextStim: autoDraw = None

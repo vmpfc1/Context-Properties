@@ -1,0 +1,51 @@
+3.2171 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.1886 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.1926 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+4.2059 	EXP 	Created responsee = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=43, italic=False, name='responsee', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'make a response', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2297 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.2302 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+4.2306 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+4.2312 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+4.2520 	EXP 	TextStim: autoLog = None
+4.2520 	EXP 	ImageStim: autoLog = None
+4.2520 	EXP 	TextStim: autoLog = None
+4.2520 	EXP 	TextStim: autoLog = None
+4.2520 	EXP 	Set Instructions text=Instructions 1!
+4.2520 	EXP 	TextStim: autoDraw = None
+4.4893 	DATA 	Keypress: space
+4.4906 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+4.5292 	EXP 	TextStim: autoDraw = None
+4.5292 	EXP 	Set Instructions text=Instructions 2!
+4.5292 	EXP 	TextStim: autoDraw = None
+4.6101 	DATA 	Keypress: space
+4.6118 	EXP 	Imported arguments.csv as conditions, 2 conditions, 1 params
+4.6129 	EXP 	Created sequence: sequential, trialTypes=2, nReps=2, seed=None
+4.6152 	EXP 	New trial (rep=0, index=0): {'argument': u'"clear_01.csv"'}
+4.6168 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+4.6180 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+4.6199 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\clear_this.jpg"'}
+4.7106 	EXP 	TextStim: autoDraw = None
+4.7106 	EXP 	Set text_image image=words\clear_this.jpg
+4.7106 	EXP 	ImageStim: autoDraw = None
+5.6182 	EXP 	New trial (rep=0, index=1): {'words': u'"words\\clear_is.jpg"'}
+5.6569 	EXP 	ImageStim: autoDraw = None
+5.6569 	EXP 	ImageStim: autoDraw = None
+5.6569 	EXP 	Set text_image image=words\clear_is.jpg
+5.6569 	EXP 	ImageStim: autoDraw = None
+6.6247 	EXP 	New trial (rep=0, index=2): {'words': u'"words\\clear_the.jpg"'}
+6.6438 	EXP 	ImageStim: autoDraw = None
+6.6438 	EXP 	Set text_image image=words\clear_the.jpg
+6.6438 	EXP 	ImageStim: autoDraw = None
+7.6119 	EXP 	New trial (rep=0, index=3): {'words': u'"words\\clear_clear.jpg"'}
+7.6303 	EXP 	ImageStim: autoDraw = None
+7.6303 	EXP 	ImageStim: autoDraw = None
+7.6303 	EXP 	Set text_image image=words\clear_clear.jpg
+7.6303 	EXP 	ImageStim: autoDraw = None
+8.6184 	EXP 	New trial (rep=0, index=4): {'words': u'"words\\clear_argument.jpg"'}
+8.6370 	EXP 	ImageStim: autoDraw = None
+8.6370 	EXP 	Set text_image image=words\clear_argument.jpg
+8.6370 	EXP 	ImageStim: autoDraw = None
+9.6239 	EXP 	ImageStim: autoDraw = None
+9.6239 	EXP 	ImageStim: autoDraw = None
+9.6239 	EXP 	TextStim: autoDraw = None
+10.0068 	DATA 	Keypress: escape

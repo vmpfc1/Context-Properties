@@ -1,0 +1,17 @@
+3.5475 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.5419 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.0542 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=6435, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+5.0547 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+5.0550 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+5.0556 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+5.0776 	EXP 	TextStim: autoLog = None
+5.0776 	EXP 	TextStim: autoLog = None
+5.0776 	EXP 	Set Instructions text=Instructions 1!
+5.0776 	EXP 	TextStim: autoDraw = None
+5.5976 	DATA 	Keypress: space
+5.5990 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+5.6375 	EXP 	TextStim: autoDraw = None
+5.6375 	EXP 	Set Instructions text=Instructions 2!
+5.6375 	EXP 	TextStim: autoDraw = None
+5.9402 	DATA 	Keypress: space
+5.9598 	EXP 	TextStim: autoDraw = None

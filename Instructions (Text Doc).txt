@@ -1,0 +1,24 @@
+Experiment Instructions:
+
+line01	We are piloting a new method for group-grading exam questions. In this first section you will be reading aloud several arguments taken from LAW 204, Written and Oral Advocacy, taught at the UC Berkeley Law School.
+
+line02	You will read through student responses taken from the essay portion of the midterm exam. In order to give an objective analysis, you will be asked to read the essay responses aloud. In addition, sentences from each essay response will be presented phrase-by-phrase, not all at once.
+
+line03	Handwriting has been cropped and digitized into snippets like the one below, each of which contain individual phrases:
+[EXAMPLE OF PHRASE FROM EXAM]
+
+line04	These snippets of text will appear on the screen for only one second each. When each phrase appears please read it out loud.
+
+line05	After you have read through each argument, you will be asked several questions about the complete argument. Please try to answer these questions as objectively as possible, as if you were a teaching assistant grading this exam.
+
+line06	After this slide you'll begin a practice session in order to familiarize yourself with how to evaluate these arguments. An experimenter will stand by to correct you if you make any mistakes. If you have any questions, please ask the experimenter now.
+
+[REQUIRES 'l' KEY TO CONTINUE]
+
+[[[PRACTICE SESSION]]]
+
+line07	After this you will begin the actual grading section. If you have any final questions, please ask the experimenter. [this is read verbally by the experimenter as well as appearing on screen]
+
+[REQUIRES 'g' KEY TO CONTINUE]
+
+[[[TEST SESSION]]]

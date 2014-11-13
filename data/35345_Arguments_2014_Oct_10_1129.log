@@ -1,0 +1,221 @@
+2.4446 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+3.3328 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  5.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+3.3449 	EXP 	Created Space_Continue = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Space_Continue', opacity=1.0, ori=0, pos=array([ 0., -7.]), rgb=array([ 255.,  255.,  255.]), text=u'Press SPACE to continue', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+3.3487 	EXP 	Created Instr_Pic = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='Instr_Pic', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.5,  0.5]), texRes=128, units=u'norm', win=Window(...))
+3.3499 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=0, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+3.3530 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.25 ,  0.125]), texRes=128, units=u'norm', win=Window(...))
+3.3586 	EXP 	Created question_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='question_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+3.3796 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=70, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+3.4012 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+3.4075 	EXP 	Imported instructions.xlsx as conditions, 6 conditions, 3 params
+3.4079 	EXP 	Created sequence: sequential, trialTypes=6, nReps=1, seed=None
+3.4086 	EXP 	New trial (rep=0, index=0): {u'text': u'We are piloting a new method for group-grading exam questions. In this first section you will be reading aloud several arguments taken from LAW 204, Written and Oral Advocacy, taught at the UC Berkeley Law School.', u'image': u'nothing.jpg', u'pos': [20, 20]}
+3.4523 	ERROR 	Only 2D textures are supported at the moment
+3.4649 	EXP 	Set Instructions text=We are piloting a new method for group-grading exam questions. In this first section you will be reading aloud several arguments taken from LAW 204, Written and Oral Advocacy, taught at the UC Berkeley Law School.
+3.4649 	EXP 	ImageStim: pos = [ 20.  20.]
+3.4649 	EXP 	Set Instr_Pic image=nothing.jpg
+3.4649 	EXP 	TextStim: autoDraw = True
+3.4649 	EXP 	TextStim: autoDraw = True
+3.4649 	EXP 	ImageStim: autoDraw = True
+15.1119 	DATA 	Keypress: space
+15.1131 	EXP 	New trial (rep=0, index=1): {u'text': u'You will read through student responses taken from the essay portion of the midterm exam. In order to give an objective analysis, you will be asked to read the essay responses aloud. In addition, sentences from each essay response will be presented phrase-by-phrase, not all at once.', u'image': u'nothing.jpg', u'pos': [20, 20]}
+15.2024 	ERROR 	Only 2D textures are supported at the moment
+15.2088 	EXP 	TextStim: autoDraw = False
+15.2088 	EXP 	TextStim: autoDraw = False
+15.2088 	EXP 	ImageStim: autoDraw = False
+15.2088 	EXP 	Set Instructions text=You will read through student responses taken from the essay portion of the midterm exam. In order to give an objective analysis, you will be asked to read the essay responses aloud. In addition, sentences from each essay response will be presented phrase-by-phrase, not all at once.
+15.2088 	EXP 	ImageStim: pos = [ 20.  20.]
+15.2088 	EXP 	Set Instr_Pic image=nothing.jpg
+15.2088 	EXP 	TextStim: autoDraw = True
+15.2088 	EXP 	TextStim: autoDraw = True
+15.2088 	EXP 	ImageStim: autoDraw = True
+16.2307 	DATA 	Keypress: space
+16.2319 	EXP 	New trial (rep=0, index=2): {u'text': u'Handwriting has been cropped and digitized into snippets like the one below, each of which contain individual phrases:', u'image': u'words\\example.jpg', u'pos': [0, 0]}
+16.3040 	EXP 	TextStim: autoDraw = False
+16.3040 	EXP 	TextStim: autoDraw = False
+16.3040 	EXP 	ImageStim: autoDraw = False
+16.3040 	EXP 	Set Instructions text=Handwriting has been cropped and digitized into snippets like the one below, each of which contain individual phrases:
+16.3040 	EXP 	ImageStim: pos = [ 0.  0.]
+16.3040 	EXP 	Set Instr_Pic image=words\example.jpg
+16.3040 	EXP 	TextStim: autoDraw = True
+16.3040 	EXP 	TextStim: autoDraw = True
+16.3040 	EXP 	ImageStim: autoDraw = True
+18.5100 	DATA 	Keypress: space
+18.5111 	EXP 	New trial (rep=0, index=3): {u'text': u'These snippets of text will appear on the screen for only one second each. When each phrase appears please read it out loud.', u'image': u'nothing.jpg', u'pos': [20, 20]}
+18.5730 	ERROR 	Only 2D textures are supported at the moment
+18.5789 	EXP 	TextStim: autoDraw = False
+18.5789 	EXP 	TextStim: autoDraw = False
+18.5789 	EXP 	ImageStim: autoDraw = False
+18.5789 	EXP 	Set Instructions text=These snippets of text will appear on the screen for only one second each. When each phrase appears please read it out loud.
+18.5789 	EXP 	ImageStim: pos = [ 20.  20.]
+18.5789 	EXP 	Set Instr_Pic image=nothing.jpg
+18.5789 	EXP 	TextStim: autoDraw = True
+18.5789 	EXP 	TextStim: autoDraw = True
+18.5789 	EXP 	ImageStim: autoDraw = True
+19.7100 	DATA 	Keypress: space
+19.7104 	EXP 	New trial (rep=0, index=4): {u'text': u'After you have read through each argument, you will be asked several questions about the complete argument. Please try to answer these questions as objectively as possible, as if you were a teaching assistant grading this exam.', u'image': u'nothing.jpg', u'pos': [20, 20]}
+19.7497 	ERROR 	Only 2D textures are supported at the moment
+19.7558 	EXP 	TextStim: autoDraw = False
+19.7558 	EXP 	TextStim: autoDraw = False
+19.7558 	EXP 	ImageStim: autoDraw = False
+19.7558 	EXP 	Set Instructions text=After you have read through each argument, you will be asked several questions about the complete argument. Please try to answer these questions as objectively as possible, as if you were a teaching assistant grading this exam.
+19.7558 	EXP 	ImageStim: pos = [ 20.  20.]
+19.7558 	EXP 	Set Instr_Pic image=nothing.jpg
+19.7558 	EXP 	TextStim: autoDraw = True
+19.7558 	EXP 	TextStim: autoDraw = True
+19.7558 	EXP 	ImageStim: autoDraw = True
+20.5091 	DATA 	Keypress: space
+20.5098 	EXP 	New trial (rep=0, index=5): {u'text': u"After this slide you'll begin a practice session in order to familiarize yourself with how to evaluate these arguments. An experimenter will stand by to correct you if you make any mistakes. If you have any questions, please ask the experimenter now.", u'image': u'nothing.jpg', u'pos': [20, 20]}
+20.5696 	ERROR 	Only 2D textures are supported at the moment
+20.5761 	EXP 	TextStim: autoDraw = False
+20.5761 	EXP 	TextStim: autoDraw = False
+20.5761 	EXP 	ImageStim: autoDraw = False
+20.5761 	EXP 	Set Instructions text=After this slide you'll begin a practice session in order to familiarize yourself with how to evaluate these arguments. An experimenter will stand by to correct you if you make any mistakes. If you have any questions, please ask the experimenter now.
+20.5761 	EXP 	ImageStim: pos = [ 20.  20.]
+20.5761 	EXP 	Set Instr_Pic image=nothing.jpg
+20.5761 	EXP 	TextStim: autoDraw = True
+20.5761 	EXP 	TextStim: autoDraw = True
+20.5761 	EXP 	ImageStim: autoDraw = True
+20.9773 	DATA 	Keypress: space
+20.9955 	EXP 	TextStim: autoDraw = False
+20.9955 	EXP 	TextStim: autoDraw = False
+20.9955 	EXP 	ImageStim: autoDraw = False
+20.9955 	EXP 	TextStim: autoDraw = True
+22.4783 	EXP 	Imported arguments.csv as conditions, 3 conditions, 1 params
+22.4797 	EXP 	Created sequence: random, trialTypes=3, nReps=1, seed=None
+22.4816 	EXP 	New trial (rep=0, index=0): {'argument': u'"clear_01.csv"'}
+22.4829 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+22.4836 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+22.4848 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\clear_this.jpg"'}
+22.4976 	EXP 	TextStim: autoDraw = False
+22.4976 	EXP 	TextStim: autoDraw = False
+22.4976 	EXP 	Set text_image image=words\clear_this.jpg
+22.4976 	EXP 	ImageStim: autoDraw = True
+23.4780 	EXP 	New trial (rep=0, index=1): {'words': u'"words\\clear_is.jpg"'}
+23.4961 	EXP 	ImageStim: autoDraw = False
+23.4961 	EXP 	ImageStim: autoDraw = False
+23.4961 	EXP 	Set text_image image=words\clear_is.jpg
+23.4961 	EXP 	ImageStim: autoDraw = True
+24.4790 	EXP 	New trial (rep=0, index=2): {'words': u'"words\\clear_the.jpg"'}
+24.4995 	EXP 	ImageStim: autoDraw = False
+24.4995 	EXP 	ImageStim: autoDraw = False
+24.4995 	EXP 	Set text_image image=words\clear_the.jpg
+24.4995 	EXP 	ImageStim: autoDraw = True
+25.4767 	EXP 	New trial (rep=0, index=3): {'words': u'"words\\clear_clear.jpg"'}
+25.4913 	EXP 	ImageStim: autoDraw = False
+25.4913 	EXP 	ImageStim: autoDraw = False
+25.4913 	EXP 	Set text_image image=words\clear_clear.jpg
+25.4913 	EXP 	ImageStim: autoDraw = True
+26.4802 	EXP 	New trial (rep=0, index=4): {'words': u'"words\\clear_argument.jpg"'}
+26.4961 	EXP 	ImageStim: autoDraw = False
+26.4961 	EXP 	Set text_image image=words\clear_argument.jpg
+26.4961 	EXP 	ImageStim: autoDraw = True
+27.4772 	EXP 	Imported questions.csv as conditions, 5 conditions, 1 params
+27.4787 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+27.4807 	EXP 	New trial (rep=0, index=0): {'question': u'"This argument was unconvincing."'}
+27.5168 	EXP 	ImageStim: autoDraw = False
+27.5168 	EXP 	ImageStim: autoDraw = False
+27.5168 	EXP 	Set question_text text="This argument was unconvincing."
+28.0082 	EXP 	TextStim: autoDraw = True
+29.4088 	DATA 	Keypress: 3
+29.4115 	EXP 	New trial (rep=0, index=1): {'question': u'"This was a well formed argument."'}
+29.4483 	EXP 	TextStim: autoDraw = False
+29.4483 	EXP 	Set question_text text="This was a well formed argument."
+29.9409 	EXP 	TextStim: autoDraw = True
+30.2412 	DATA 	Keypress: 5
+30.2435 	EXP 	New trial (rep=0, index=2): {'question': u'"This argument was convincing."'}
+30.2722 	EXP 	TextStim: autoDraw = False
+30.2722 	EXP 	Set question_text text="This argument was convincing."
+30.7738 	EXP 	TextStim: autoDraw = True
+31.9572 	DATA 	Keypress: 9
+31.9590 	EXP 	New trial (rep=0, index=3): {'question': u'"This argument might be wrong but it was well argued nonetheless."'}
+31.9978 	EXP 	TextStim: autoDraw = False
+31.9978 	EXP 	Set question_text text="This argument might be wrong but it was well argued nonetheless."
+32.4905 	EXP 	TextStim: autoDraw = True
+35.3399 	DATA 	Keypress: 0
+35.3402 	DATA 	Keypress: 9
+35.3425 	EXP 	New trial (rep=0, index=4): {'question': u'"There were logical flaws in this argument."'}
+35.3825 	EXP 	TextStim: autoDraw = False
+35.3825 	EXP 	Set question_text text="There were logical flaws in this argument."
+35.8725 	EXP 	TextStim: autoDraw = True
+37.4394 	DATA 	Keypress: 1
+37.4557 	EXP 	TextStim: autoDraw = False
+37.9720 	EXP 	TextStim: autoDraw = True
+38.3888 	DATA 	Keypress: 6
+38.3890 	DATA 	Keypress: 5
+38.5222 	DATA 	Keypress: 7
+38.5854 	DATA 	Keypress: 6
+38.6044 	DATA 	Keypress: 5
+39.4384 	DATA 	Keypress: space
+39.4398 	EXP 	New trial (rep=0, index=1): {'argument': u'"arg2clean.csv"'}
+39.4470 	EXP 	Imported arg2clean.csv as conditions, 49 conditions, 1 params
+39.4504 	EXP 	Created sequence: sequential, trialTypes=49, nReps=1, seed=None
+39.4526 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\arg2clean\\1.png"'}
+39.4635 	EXP 	TextStim: autoDraw = False
+39.4635 	EXP 	Set text_image image=words\arg2clean\1.png
+39.4635 	EXP 	ImageStim: autoDraw = True
+40.4556 	EXP 	New trial (rep=0, index=1): {'words': u'"words\\arg2clean\\2.png"'}
+40.4721 	EXP 	ImageStim: autoDraw = False
+40.4721 	EXP 	Set text_image image=words\arg2clean\2.png
+40.4721 	EXP 	ImageStim: autoDraw = True
+41.4560 	EXP 	New trial (rep=0, index=2): {'words': u'"words\\arg2clean\\3.png"'}
+41.4737 	EXP 	ImageStim: autoDraw = False
+41.4737 	EXP 	ImageStim: autoDraw = False
+41.4737 	EXP 	Set text_image image=words\arg2clean\3.png
+41.4737 	EXP 	ImageStim: autoDraw = True
+42.4554 	EXP 	New trial (rep=0, index=3): {'words': u'"words\\arg2clean\\4.png"'}
+42.4726 	EXP 	ImageStim: autoDraw = False
+42.4726 	EXP 	ImageStim: autoDraw = False
+42.4726 	EXP 	Set text_image image=words\arg2clean\4.png
+42.4726 	EXP 	ImageStim: autoDraw = True
+43.4549 	EXP 	New trial (rep=0, index=4): {'words': u'"words\\arg2clean\\5.png"'}
+43.4704 	EXP 	ImageStim: autoDraw = False
+43.4704 	EXP 	ImageStim: autoDraw = False
+43.4704 	EXP 	Set text_image image=words\arg2clean\5.png
+43.4704 	EXP 	ImageStim: autoDraw = True
+44.4543 	EXP 	New trial (rep=0, index=5): {'words': u'"words\\arg2clean\\6.png"'}
+44.4702 	EXP 	ImageStim: autoDraw = False
+44.4702 	EXP 	ImageStim: autoDraw = False
+44.4702 	EXP 	Set text_image image=words\arg2clean\6.png
+44.4702 	EXP 	ImageStim: autoDraw = True
+45.4538 	EXP 	New trial (rep=0, index=6): {'words': u'"words\\arg2clean\\7.png"'}
+45.4692 	EXP 	ImageStim: autoDraw = False
+45.4692 	EXP 	ImageStim: autoDraw = False
+45.4692 	EXP 	Set text_image image=words\arg2clean\7.png
+45.4692 	EXP 	ImageStim: autoDraw = True
+46.4529 	EXP 	New trial (rep=0, index=7): {'words': u'"words\\arg2clean\\8.png"'}
+46.4682 	EXP 	ImageStim: autoDraw = False
+46.4682 	EXP 	ImageStim: autoDraw = False
+46.4682 	EXP 	Set text_image image=words\arg2clean\8.png
+46.4682 	EXP 	ImageStim: autoDraw = True
+47.4540 	EXP 	New trial (rep=0, index=8): {'words': u'"words\\arg2clean\\9.png"'}
+47.4882 	EXP 	ImageStim: autoDraw = False
+47.4882 	EXP 	ImageStim: autoDraw = False
+47.4882 	EXP 	Set text_image image=words\arg2clean\9.png
+47.4882 	EXP 	ImageStim: autoDraw = True
+48.4542 	EXP 	New trial (rep=0, index=9): {'words': u'"words\\arg2clean\\10.png"'}
+48.4674 	EXP 	ImageStim: autoDraw = False
+48.4674 	EXP 	ImageStim: autoDraw = False
+48.4674 	EXP 	Set text_image image=words\arg2clean\10.png
+48.4674 	EXP 	ImageStim: autoDraw = True
+49.4526 	EXP 	New trial (rep=0, index=10): {'words': u'"words\\arg2clean\\11.png"'}
+49.4678 	EXP 	ImageStim: autoDraw = False
+49.4678 	EXP 	ImageStim: autoDraw = False
+49.4678 	EXP 	Set text_image image=words\arg2clean\11.png
+49.4678 	EXP 	ImageStim: autoDraw = True
+50.4532 	EXP 	New trial (rep=0, index=11): {'words': u'"words\\arg2clean\\12.png"'}
+50.4685 	EXP 	ImageStim: autoDraw = False
+50.4685 	EXP 	ImageStim: autoDraw = False
+50.4685 	EXP 	Set text_image image=words\arg2clean\12.png
+50.4685 	EXP 	ImageStim: autoDraw = True
+51.4529 	EXP 	New trial (rep=0, index=12): {'words': u'"words\\arg2clean\\13.png"'}
+51.4781 	EXP 	ImageStim: autoDraw = False
+51.4781 	EXP 	ImageStim: autoDraw = False
+51.4781 	EXP 	Set text_image image=words\arg2clean\13.png
+51.4781 	EXP 	ImageStim: autoDraw = True
+52.4531 	EXP 	New trial (rep=0, index=13): {'words': u'"words\\arg2clean\\14.png"'}
+52.4680 	EXP 	ImageStim: autoDraw = False
+52.4680 	EXP 	ImageStim: autoDraw = False
+52.4680 	EXP 	Set text_image image=words\arg2clean\14.png
+52.4680 	EXP 	ImageStim: autoDraw = True
+53.3011 	DATA 	Keypress: escape

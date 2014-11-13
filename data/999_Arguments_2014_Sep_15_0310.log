@@ -1,0 +1,158 @@
+4.2689 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+5.3961 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  5.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.4084 	EXP 	Created Space_Continue = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Space_Continue', opacity=1.0, ori=0, pos=array([ 0., -7.]), rgb=array([ 255.,  255.,  255.]), text=u'Press SPACE to continue', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.4097 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=0, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+5.4142 	EXP 	Created text_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=UNKNOWN, interpolate=False, mask=None, maskParams=None, name='text_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+5.4198 	EXP 	Created question_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='question_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+5.4425 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=86, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+5.4646 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+5.4651 	EXP 	Imported instructions.csv as conditions, 3 conditions, 1 params
+5.4654 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+5.4660 	EXP 	New trial (rep=0, index=0): {'text': u'"Instructions 1!"'}
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	ImageStim: autoLog = None
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	TextStim: autoLog = None
+5.4921 	EXP 	Set Instructions text="Instructions 1!"
+5.4921 	EXP 	TextStim: autoDraw = None
+5.4921 	EXP 	TextStim: autoDraw = None
+6.9993 	DATA 	Keypress: space
+7.0003 	EXP 	New trial (rep=0, index=1): {'text': u'"Instructions 2!"'}
+7.0397 	EXP 	TextStim: autoDraw = None
+7.0397 	EXP 	TextStim: autoDraw = None
+7.0397 	EXP 	Set Instructions text="Instructions 2!"
+7.0397 	EXP 	TextStim: autoDraw = None
+7.0397 	EXP 	TextStim: autoDraw = None
+7.9460 	DATA 	Keypress: space
+7.9472 	EXP 	New trial (rep=0, index=2): {'text': u'"Instructions 3!"'}
+7.9858 	EXP 	TextStim: autoDraw = None
+7.9858 	EXP 	TextStim: autoDraw = None
+7.9858 	EXP 	Set Instructions text="Instructions 3!"
+7.9858 	EXP 	TextStim: autoDraw = None
+7.9858 	EXP 	TextStim: autoDraw = None
+8.4290 	DATA 	Keypress: space
+8.4489 	EXP 	TextStim: autoDraw = None
+8.4489 	EXP 	TextStim: autoDraw = None
+8.4489 	EXP 	TextStim: autoDraw = None
+11.4312 	EXP 	Imported arguments.csv as conditions, 2 conditions, 1 params
+11.4324 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+11.4347 	EXP 	New trial (rep=0, index=0): {'argument': u'"messy_01.csv"'}
+11.4364 	EXP 	Imported messy_01.csv as conditions, 5 conditions, 1 params
+11.4374 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+11.4391 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\messy_this.jpg"'}
+11.5094 	EXP 	TextStim: autoDraw = None
+11.5094 	EXP 	Set text_image image=words\messy_this.jpg
+11.5094 	EXP 	ImageStim: autoDraw = None
+12.4380 	EXP 	New trial (rep=0, index=1): {'words': u'"words\\messy_is.jpg"'}
+12.4563 	EXP 	ImageStim: autoDraw = None
+12.4563 	EXP 	ImageStim: autoDraw = None
+12.4563 	EXP 	Set text_image image=words\messy_is.jpg
+12.4563 	EXP 	ImageStim: autoDraw = None
+13.4441 	EXP 	New trial (rep=0, index=2): {'words': u'"words\\messy_the.jpg"'}
+13.4632 	EXP 	ImageStim: autoDraw = None
+13.4632 	EXP 	Set text_image image=words\messy_the.jpg
+13.4632 	EXP 	ImageStim: autoDraw = None
+14.4308 	EXP 	New trial (rep=0, index=3): {'words': u'"words\\messy_messy.jpg"'}
+14.4499 	EXP 	ImageStim: autoDraw = None
+14.4499 	EXP 	ImageStim: autoDraw = None
+14.4499 	EXP 	Set text_image image=words\messy_messy.jpg
+14.4499 	EXP 	ImageStim: autoDraw = None
+15.4181 	EXP 	New trial (rep=0, index=4): {'words': u'"words\\messy_argument.jpg"'}
+15.4366 	EXP 	ImageStim: autoDraw = None
+15.4366 	EXP 	ImageStim: autoDraw = None
+15.4366 	EXP 	Set text_image image=words\messy_argument.jpg
+15.4366 	EXP 	ImageStim: autoDraw = None
+16.4244 	EXP 	Imported questions.csv as conditions, 5 conditions, 1 params
+16.4256 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+16.4272 	EXP 	New trial (rep=0, index=0): {'question': u'"This argument was convincing."'}
+16.4632 	EXP 	ImageStim: autoDraw = None
+16.4632 	EXP 	Set question_text text="This argument was convincing."
+16.9667 	EXP 	TextStim: autoDraw = None
+20.8534 	DATA 	Keypress: 1
+20.8558 	EXP 	New trial (rep=0, index=1): {'question': u'"This argument was unconvincing."'}
+20.8931 	EXP 	TextStim: autoDraw = None
+20.8931 	EXP 	Set question_text text="This argument was unconvincing."
+21.3767 	EXP 	TextStim: autoDraw = None
+23.0280 	DATA 	Keypress: 9
+23.0305 	EXP 	New trial (rep=0, index=2): {'question': u'"This argument might be wrong but it was well argued nonetheless."'}
+23.0884 	EXP 	TextStim: autoDraw = None
+23.0884 	EXP 	Set question_text text="This argument might be wrong but it was well argued nonetheless."
+23.5514 	EXP 	TextStim: autoDraw = None
+25.2633 	DATA 	Keypress: 7
+25.2653 	EXP 	New trial (rep=0, index=3): {'question': u'"There were logical flaws in this argument."'}
+25.3030 	EXP 	TextStim: autoDraw = None
+25.3030 	EXP 	Set question_text text="There were logical flaws in this argument."
+25.7866 	EXP 	TextStim: autoDraw = None
+26.3114 	DATA 	Keypress: 4
+26.3141 	EXP 	New trial (rep=0, index=4): {'question': u'"This was a well formed argument."'}
+26.3506 	EXP 	TextStim: autoDraw = None
+26.3506 	EXP 	Set question_text text="This was a well formed argument."
+26.8540 	EXP 	TextStim: autoDraw = None
+27.1969 	DATA 	Keypress: 7
+27.2161 	EXP 	TextStim: autoDraw = None
+27.7196 	EXP 	TextStim: autoDraw = None
+28.1027 	DATA 	Keypress: 8
+28.9313 	DATA 	Keypress: space
+28.9323 	EXP 	New trial (rep=0, index=1): {'argument': u'"clear_01.csv"'}
+28.9338 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+28.9350 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+28.9364 	EXP 	New trial (rep=0, index=0): {'words': u'"words\\clear_this.jpg"'}
+28.9683 	EXP 	TextStim: autoDraw = None
+28.9683 	EXP 	Set text_image image=words\clear_this.jpg
+28.9683 	EXP 	ImageStim: autoDraw = None
+29.9356 	EXP 	New trial (rep=0, index=1): {'words': u'"words\\clear_is.jpg"'}
+29.9545 	EXP 	ImageStim: autoDraw = None
+29.9545 	EXP 	ImageStim: autoDraw = None
+29.9545 	EXP 	Set text_image image=words\clear_is.jpg
+29.9545 	EXP 	ImageStim: autoDraw = None
+30.9225 	EXP 	New trial (rep=0, index=2): {'words': u'"words\\clear_the.jpg"'}
+30.9415 	EXP 	ImageStim: autoDraw = None
+30.9415 	EXP 	ImageStim: autoDraw = None
+30.9415 	EXP 	Set text_image image=words\clear_the.jpg
+30.9415 	EXP 	ImageStim: autoDraw = None
+31.9093 	EXP 	New trial (rep=0, index=3): {'words': u'"words\\clear_clear.jpg"'}
+31.9283 	EXP 	ImageStim: autoDraw = None
+31.9283 	EXP 	ImageStim: autoDraw = None
+31.9283 	EXP 	Set text_image image=words\clear_clear.jpg
+31.9283 	EXP 	ImageStim: autoDraw = None
+32.8960 	EXP 	New trial (rep=0, index=4): {'words': u'"words\\clear_argument.jpg"'}
+32.9150 	EXP 	ImageStim: autoDraw = None
+32.9150 	EXP 	ImageStim: autoDraw = None
+32.9150 	EXP 	Set text_image image=words\clear_argument.jpg
+32.9150 	EXP 	ImageStim: autoDraw = None
+33.8838 	EXP 	Imported questions.csv as conditions, 5 conditions, 1 params
+33.8850 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+33.8866 	EXP 	New trial (rep=0, index=0): {'question': u'"This was a well formed argument."'}
+33.9220 	EXP 	ImageStim: autoDraw = None
+33.9220 	EXP 	ImageStim: autoDraw = None
+33.9220 	EXP 	Set question_text text="This was a well formed argument."
+34.4252 	EXP 	TextStim: autoDraw = None
+36.4189 	DATA 	Keypress: 6
+36.4217 	EXP 	New trial (rep=0, index=1): {'question': u'"This argument was unconvincing."'}
+36.4586 	EXP 	TextStim: autoDraw = None
+36.4586 	EXP 	Set question_text text="This argument was unconvincing."
+36.9421 	EXP 	TextStim: autoDraw = None
+37.1438 	DATA 	Keypress: 5
+37.1459 	EXP 	New trial (rep=0, index=2): {'question': u'"This argument was convincing."'}
+37.1840 	EXP 	TextStim: autoDraw = None
+37.1840 	EXP 	Set question_text text="This argument was convincing."
+37.6668 	EXP 	TextStim: autoDraw = None
+37.8285 	DATA 	Keypress: 6
+37.8310 	EXP 	New trial (rep=0, index=3): {'question': u'"This argument might be wrong but it was well argued nonetheless."'}
+37.8884 	EXP 	TextStim: autoDraw = None
+37.8884 	EXP 	Set question_text text="This argument might be wrong but it was well argued nonetheless."
+38.3517 	EXP 	TextStim: autoDraw = None
+38.5332 	DATA 	Keypress: 7
+38.5343 	EXP 	New trial (rep=0, index=4): {'question': u'"There were logical flaws in this argument."'}
+38.5730 	EXP 	TextStim: autoDraw = None
+38.5730 	EXP 	Set question_text text="There were logical flaws in this argument."
+39.0564 	EXP 	TextStim: autoDraw = None
+39.1976 	DATA 	Keypress: 9
+39.2177 	EXP 	TextStim: autoDraw = None
+39.7208 	EXP 	TextStim: autoDraw = None
+41.1512 	DATA 	Keypress: space
+41.1708 	EXP 	TextStim: autoDraw = None
+41.1708 	EXP 	TextStim: autoDraw = None

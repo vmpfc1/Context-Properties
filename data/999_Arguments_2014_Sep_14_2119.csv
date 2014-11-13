@@ -1,0 +1,3 @@
+text,instr_data.thisRepN,instr_data.thisTrialN,instr_data.thisN,instr_data.thisIndex,arguments_data.thisRepN,arguments_data.thisTrialN,arguments_data.thisN,arguments_data.thisIndex,argument,date,frameRate,expName,session,participant,
+Instructions 1!,0,0,0,0,,,,,,2014_Sep_14_2119,49.7418224706,Arguments,001,999,
+Instructions 2!,0,1,1,1,,,,,,2014_Sep_14_2119,49.7418224706,Arguments,001,999,

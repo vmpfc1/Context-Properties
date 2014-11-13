@@ -1,0 +1,93 @@
+3.2349 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.2253 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.2334 	EXP 	Created argument_words = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=4, italic=False, name='argument_words', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.2464 	EXP 	Created responsee = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=43, italic=False, name='responsee', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'make a response', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2708 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.2714 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+4.2717 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+4.2722 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+4.3051 	EXP 	TextStim: autoLog = None
+4.3051 	EXP 	TextStim: autoLog = None
+4.3051 	EXP 	TextStim: autoLog = None
+4.3051 	EXP 	TextStim: autoLog = None
+4.3051 	EXP 	Set Instructions text=Instructions 1!
+4.3051 	EXP 	TextStim: autoDraw = None
+4.4631 	DATA 	Keypress: space
+4.4645 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+4.5030 	EXP 	TextStim: autoDraw = None
+4.5030 	EXP 	Set Instructions text=Instructions 2!
+4.5030 	EXP 	TextStim: autoDraw = None
+4.6039 	DATA 	Keypress: space
+4.6057 	EXP 	Imported arguments.csv as conditions, 1 conditions, 1 params
+4.6068 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+4.6093 	EXP 	New trial (rep=0, index=0): {'clear_01csv': u'"messy_01.csv"'}
+4.6113 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+4.6125 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+4.6151 	EXP 	New trial (rep=0, index=0): {'words': u'this'}
+4.6441 	EXP 	TextStim: autoDraw = None
+4.6441 	EXP 	Set argument_words text=this
+4.6441 	EXP 	TextStim: autoDraw = None
+5.5319 	DATA 	Keypress: space
+5.6118 	EXP 	New trial (rep=0, index=1): {'words': u'is'}
+5.6307 	EXP 	TextStim: autoDraw = None
+5.6307 	EXP 	Set argument_words text=is
+5.6307 	EXP 	TextStim: autoDraw = None
+5.8325 	DATA 	Keypress: space
+6.2360 	DATA 	Keypress: space
+6.5574 	DATA 	Keypress: escape
+3.6711 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.6463 	EXP 	Created Instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='Instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.6518 	EXP 	Created argument_words = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=39, italic=False, name='argument_words', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'cm', win=Window(...), wrapWidth=UNKNOWN)
+4.6656 	EXP 	Created responsee = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=43, italic=False, name='responsee', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'make a response', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.6910 	EXP 	Created End = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=117, italic=False, name='End', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units='cm', win=Window(...), wrapWidth=UNKNOWN)
+4.6915 	EXP 	Imported instructions.csv as conditions, 2 conditions, 1 params
+4.6918 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+4.6924 	EXP 	New trial (rep=0, index=0): {'text': u'Instructions 1!'}
+4.7124 	EXP 	TextStim: autoLog = None
+4.7124 	EXP 	TextStim: autoLog = None
+4.7124 	EXP 	TextStim: autoLog = None
+4.7124 	EXP 	TextStim: autoLog = None
+4.7124 	EXP 	Set Instructions text=Instructions 1!
+4.7124 	EXP 	TextStim: autoDraw = None
+5.0312 	DATA 	Keypress: space
+5.0326 	EXP 	New trial (rep=0, index=1): {'text': u'Instructions 2!'}
+5.0709 	EXP 	TextStim: autoDraw = None
+5.0709 	EXP 	Set Instructions text=Instructions 2!
+5.0709 	EXP 	TextStim: autoDraw = None
+5.2728 	DATA 	Keypress: space
+5.2746 	EXP 	Imported arguments.csv as conditions, 1 conditions, 1 params
+5.2757 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+5.2777 	EXP 	New trial (rep=0, index=0): {'clear_01csv': u'"messy_01.csv"'}
+5.2797 	EXP 	Imported clear_01.csv as conditions, 5 conditions, 1 params
+5.2809 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+5.2831 	EXP 	New trial (rep=0, index=0): {'words': u'this'}
+5.3126 	EXP 	TextStim: autoDraw = None
+5.3126 	EXP 	Set argument_words text=this
+5.3126 	EXP 	TextStim: autoDraw = None
+6.2810 	EXP 	New trial (rep=0, index=1): {'words': u'is'}
+6.2992 	EXP 	TextStim: autoDraw = None
+6.2992 	EXP 	Set argument_words text=is
+6.2992 	EXP 	TextStim: autoDraw = None
+7.2873 	EXP 	New trial (rep=0, index=2): {'words': u'the'}
+7.3060 	EXP 	TextStim: autoDraw = None
+7.3060 	EXP 	Set argument_words text=the
+7.3060 	EXP 	TextStim: autoDraw = None
+8.2743 	EXP 	New trial (rep=0, index=3): {'words': u'clear'}
+8.2927 	EXP 	TextStim: autoDraw = None
+8.2927 	EXP 	TextStim: autoDraw = None
+8.2927 	EXP 	Set argument_words text=clear
+8.2927 	EXP 	TextStim: autoDraw = None
+9.2809 	EXP 	New trial (rep=0, index=4): {'words': u'argument'}
+9.2996 	EXP 	TextStim: autoDraw = None
+9.2996 	EXP 	Set argument_words text=argument
+9.2996 	EXP 	TextStim: autoDraw = None
+10.2863 	EXP 	TextStim: autoDraw = None
+10.2863 	EXP 	TextStim: autoDraw = None
+10.2863 	EXP 	TextStim: autoDraw = None
+11.7569 	DATA 	Keypress: 5
+12.5823 	DATA 	Keypress: 6
+13.0861 	DATA 	Keypress: space
+13.2866 	EXP 	TextStim: autoDraw = None
+13.2866 	EXP 	TextStim: autoDraw = None
+13.2866 	EXP 	TextStim: autoDraw = None
+15.0401 	DATA 	Keypress: escape
