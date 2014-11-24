@@ -1,0 +1,43 @@
+0.7542 	WARNING 	Movie2 stim could not be imported and won't be available
+3.5793 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x03983EE0>, name='window1', pos=[0, 0], screen=0, size=array([1366,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.5793 	EXP 	window1: recordFrameIntervals = False
+3.7789 	EXP 	window1: recordFrameIntervals = True
+4.0004 	EXP 	window1: recordFrameIntervals = False
+4.1078 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3, -0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.1134 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3, -0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.1358 	EXP 	Created ending = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='ending', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+4.1411 	EXP 	Imported instructions-p1.xlsx as conditions, 4 conditions, 1 params
+4.1415 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+4.1420 	EXP 	New trial (rep=0, index=0): {u'text': u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."}
+4.2000 	EXP 	intro_text: text = u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."
+4.2000 	EXP 	intro_text: autoDraw = True
+5.1289 	DATA 	Keypress: escape
+0.7565 	WARNING 	Movie2 stim could not be imported and won't be available
+3.2800 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x03913EE0>, name='window1', pos=[0, 0], screen=0, size=array([1366,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.2800 	EXP 	window1: recordFrameIntervals = False
+3.4779 	EXP 	window1: recordFrameIntervals = True
+3.5241 	WARNING 	t of last frame was 25.16ms (=1/39)
+3.9423 	EXP 	window1: recordFrameIntervals = False
+4.0399 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.0454 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.0679 	EXP 	Created ending = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='ending', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+4.0731 	EXP 	Imported instructions-p1.xlsx as conditions, 4 conditions, 1 params
+4.0735 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+4.0741 	EXP 	New trial (rep=0, index=0): {u'text': u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."}
+4.1280 	EXP 	intro_text: text = u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."
+4.1280 	EXP 	intro_text: autoDraw = True
+5.0698 	DATA 	Keypress: escape
+0.7687 	WARNING 	Movie2 stim could not be imported and won't be available
+4.1656 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x03A43EE0>, name='window1', pos=[0, 0], screen=0, size=array([1366,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.1657 	EXP 	window1: recordFrameIntervals = False
+4.3672 	EXP 	window1: recordFrameIntervals = True
+4.5872 	EXP 	window1: recordFrameIntervals = False
+4.6768 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3,  0.3]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.6827 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([-0.3,  0.3]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+4.7050 	EXP 	Created ending = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='ending', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+4.7100 	EXP 	Imported instructions-p1.xlsx as conditions, 4 conditions, 1 params
+4.7104 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+4.7109 	EXP 	New trial (rep=0, index=0): {u'text': u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."}
+4.7663 	EXP 	intro_text: text = u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."
+4.7663 	EXP 	intro_text: autoDraw = True
+7.2255 	DATA 	Keypress: escape

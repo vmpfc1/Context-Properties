@@ -1,0 +1,25 @@
+24 practice trials and 60 test trials
+
+30 properties for True trials
+
+each target property pair (skunk - smelly) appears twice in T and twice in F
+	if in T, then in 'related' and 'unrelated' NOT in control
+	
+	
+	
+
+			Subject		Predicate
+CI - rel	1			1
+CI - urel   	1			0
+CI - ctrl	0			0
+
+CD - rel	0			1
+CD - urel	0			0
+CD - ctrl	1			0
+
+
+1 = closely related to property, 0 = unrelated to property
+
+which features are most diagnostic? depends on other categories learned - but also should depend on context!
+
+is the effect additive or multiplicative (additive is uninteresting) - e.g. flowers ... skunk - smelly   vs  tree ... skunk - smelly

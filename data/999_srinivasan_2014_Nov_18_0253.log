@@ -1,0 +1,107 @@
+0.7429 	WARNING 	Movie2 stim could not be imported and won't be available
+4.6590 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x039002B0>, name='window1', pos=[0, 0], screen=0, size=array([1366,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.6590 	EXP 	window1: recordFrameIntervals = False
+4.8634 	EXP 	window1: recordFrameIntervals = True
+5.0823 	EXP 	window1: recordFrameIntervals = False
+5.1969 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([ 0. ,  0.3]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2119 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([ 255.,  255.,  255.]), text=u'Press SPACE to continue!', units=u'norm', win=Window(...), wrapWidth=1)
+5.2199 	EXP 	Created sentence_stim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='sentence_stim', opacity=1.0, ori=0, pos=array([ 0. ,  0.1]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2255 	EXP 	Created property_stim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='property_stim', opacity=1.0, ori=0, pos=array([ 0. , -0.1]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2326 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([ 0. ,  0.3]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2399 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([ 255.,  255.,  255.]), text=u'Press SPACE to continue!', units=u'norm', win=Window(...), wrapWidth=1)
+5.2409 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+5.2469 	EXP 	Created sentence_stim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='sentence_stim', opacity=1.0, ori=0, pos=array([ 0. ,  0.1]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2535 	EXP 	Created property_stim = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='property_stim', opacity=1.0, ori=0, pos=array([ 0. , -0.1]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+5.2750 	EXP 	Created ending = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='ending', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+5.2813 	EXP 	Imported instructions-p1.xlsx as conditions, 4 conditions, 1 params
+5.2817 	EXP 	Created sequence: sequential, trialTypes=4, nReps=1, seed=None
+5.3728 	EXP 	New trial (rep=0, index=0): {u'text': u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."}
+5.4304 	EXP 	intro_text: text = u"Welcome to the study! This lab has been developing a new machine learning algorithm, but we need humans to help confirm that the algorithm's data is correct. Your responses will be used to help us improve our algorithm."
+5.4304 	EXP 	intro_text: autoDraw = True
+5.4304 	EXP 	text_2: autoDraw = True
+6.4902 	DATA 	Keypress: space
+6.4908 	EXP 	New trial (rep=0, index=1): {u'text': u'You will be reading sentences and responding to them. A sentence with an underlined word will appear on the screen. When that happens, please fully comprehend the sentence as you read it out loud. After six seconds, the sentence will disappear and a short phrase will appear on the screen. Your job is simply to tell us whether the phrase can be a property of the underlined word.'}
+6.5648 	EXP 	intro_text: autoDraw = False
+6.5648 	EXP 	text_2: autoDraw = False
+6.5648 	EXP 	intro_text: text = u'You will be reading sentences and responding to them. A sentence with an underlined word will appear on the screen. When that happens, please fully comprehend the sentence as you read it out loud. After six seconds, the sentence will disappear and a short phrase will appear on the screen. Your job is simply to tell us whether the phrase can be a property of the underlined word.'
+6.5648 	EXP 	intro_text: autoDraw = True
+6.5648 	EXP 	text_2: autoDraw = True
+6.6727 	DATA 	Keypress: space
+6.6737 	EXP 	New trial (rep=0, index=2): {u'text': u"If the phrase can be a property of the underlined word, press the green key. And if the phrase can't be a property of the underlined word, press the red key. Please respond as quickly as possible,but avoid making errors."}
+6.7446 	EXP 	intro_text: autoDraw = False
+6.7446 	EXP 	text_2: autoDraw = False
+6.7446 	EXP 	intro_text: text = u"If the phrase can be a property of the underlined word, press the green key. And if the phrase can't be a property of the underlined word, press the red key. Please respond as quickly as possible,but avoid making errors."
+6.7446 	EXP 	intro_text: autoDraw = True
+6.7446 	EXP 	text_2: autoDraw = True
+6.8177 	DATA 	Keypress: space
+6.8431 	EXP 	New trial (rep=0, index=3): {u'text': u"After this slide you'll begin a practice session. If you make any mistakes an experimenter will be standing by to correct you. Just remember to read all the sentences (but not the phrases) out loud. In order to move between trials in the experiment, press the space bar. When you're ready to begin, please turn around and tell the experimenter."}
+6.9094 	EXP 	intro_text: autoDraw = False
+6.9094 	EXP 	text_2: autoDraw = False
+6.9094 	EXP 	intro_text: text = u"After this slide you'll begin a practice session. If you make any mistakes an experimenter will be standing by to correct you. Just remember to read all the sentences (but not the phrases) out loud. In order to move between trials in the experiment, press the space bar. When you're ready to begin, please turn around and tell the experimenter."
+6.9094 	EXP 	intro_text: autoDraw = True
+6.9094 	EXP 	text_2: autoDraw = True
+6.9746 	DATA 	Keypress: space
+6.9793 	EXP 	Imported stim-prac.xlsx as conditions, 4 conditions, 3 params
+6.9798 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+6.9814 	EXP 	New trial (rep=0, index=0): {u'property': u'can be tied in a knot', u'response': u'f', u'sentence': u'The *refrigerator* was set to a low temperature to cool the beer.'}
+6.9944 	EXP 	intro_text: autoDraw = False
+6.9944 	EXP 	text_2: autoDraw = False
+7.1153 	DATA 	Keypress: space
+7.1529 	EXP 	sentence_stim: text = u'The *refrigerator* was set to a low temperature to cool the beer.'
+7.1529 	EXP 	property_stim: text = u'can be tied in a knot'
+7.6389 	EXP 	sentence_stim: autoDraw = True
+13.6384 	EXP 	sentence_stim: autoDraw = False
+13.6384 	EXP 	property_stim: autoDraw = True
+14.0825 	DATA 	Keypress: j
+14.0834 	EXP 	New trial (rep=0, index=1): {u'property': u'has a smell', u'response': u'j', u'sentence': u'The *skunk* was under a large willow.'}
+14.1020 	EXP 	sentence_stim: autoDraw = False
+14.1020 	EXP 	property_stim: autoDraw = False
+15.9346 	DATA 	Keypress: space
+15.9548 	EXP 	sentence_stim: text = u'The *skunk* was under a large willow.'
+15.9548 	EXP 	property_stim: text = u'has a smell'
+16.1377 	DATA 	Keypress: space
+16.3177 	DATA 	Keypress: space
+16.4592 	EXP 	sentence_stim: autoDraw = True
+16.4792 	DATA 	Keypress: space
+16.9623 	DATA 	Keypress: space
+17.2437 	DATA 	Keypress: space
+17.4857 	DATA 	Keypress: space
+17.7875 	DATA 	Keypress: space
+17.9888 	DATA 	Keypress: space
+18.2505 	DATA 	Keypress: space
+18.4524 	DATA 	Keypress: space
+18.7132 	DATA 	Keypress: space
+18.9154 	DATA 	Keypress: space
+19.0766 	DATA 	Keypress: space
+19.2379 	DATA 	Keypress: space
+19.4391 	DATA 	Keypress: space
+19.6233 	DATA 	Keypress: space
+19.8021 	DATA 	Keypress: space
+19.9815 	DATA 	Keypress: space
+20.1632 	DATA 	Keypress: space
+20.3253 	DATA 	Keypress: space
+20.5060 	DATA 	Keypress: space
+20.6673 	DATA 	Keypress: space
+20.8889 	DATA 	Keypress: space
+21.0901 	DATA 	Keypress: space
+21.2919 	DATA 	Keypress: space
+21.4719 	DATA 	Keypress: space
+21.6541 	DATA 	Keypress: space
+21.8755 	DATA 	Keypress: space
+22.4383 	EXP 	sentence_stim: autoDraw = False
+22.4592 	EXP 	property_stim: autoDraw = True
+22.8617 	DATA 	Keypress: j
+22.8626 	EXP 	New trial (rep=0, index=2): {u'property': u'has gills', u'response': u'f', u'sentence': u'The *cheese* was growing moldy in the refrigerator.'}
+22.8822 	EXP 	sentence_stim: autoDraw = False
+22.8822 	EXP 	property_stim: autoDraw = False
+27.1303 	DATA 	Keypress: space
+27.1571 	EXP 	sentence_stim: text = u'The *cheese* was growing moldy in the refrigerator.'
+27.1571 	EXP 	property_stim: text = u'has gills'
+27.6544 	EXP 	sentence_stim: autoDraw = True
+33.6560 	EXP 	sentence_stim: autoDraw = False
+33.6560 	EXP 	property_stim: autoDraw = True
+34.6822 	DATA 	Keypress: j
+34.6836 	EXP 	New trial (rep=0, index=3): {u'property': u'can contain money', u'response': u'j', u'sentence': u'The *bank* was robbed by three bandits.'}
+34.7025 	EXP 	sentence_stim: autoDraw = False
+34.7025 	EXP 	property_stim: autoDraw = False
+37.5010 	DATA 	Keypress: escape
